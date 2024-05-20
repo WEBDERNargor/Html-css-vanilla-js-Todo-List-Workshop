@@ -1,5 +1,6 @@
 var lists = [];
 var cash = [];
+
 const btn = document.querySelector(".add");
 const input = document.querySelector("#myinput");
 const zone = document.querySelector("#data");
